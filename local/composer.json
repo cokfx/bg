@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/bg",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "LexSokolov",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "yandex/geo": "*"
+  },
+  "extra": {
+
+  }
+}
